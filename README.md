@@ -4,6 +4,8 @@
 
 This project is a deep learning-based **real-time emotion detection system** built using a custom-trained Convolutional Neural Network (CNN). The system captures facial expressions via webcam and classifies them into seven emotions using live video feed.
 
+![Emotion Detector 12-04-2025 17_27_17](https://github.com/user-attachments/assets/f1a4a880-4d75-46d7-a92a-b6cee21f0cc8)
+
 ---
 
 ## 📁 Project Structure
