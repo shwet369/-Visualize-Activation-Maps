@@ -12,9 +12,6 @@ This project is a deep learning-based **real-time emotion detection system** bui
 
 . ├── model_training.ipynb # Model training & evaluation code (custom CNN) ├── emotion_model_best.h5 # Saved best model (download link below if large) ├── haarcascade_frontalface.xml # Face detector used in OpenCV ├── main.py # Real-time webcam emotion detection script ├── requirements.txt # List of required packages ├── confusion_matrix.png # Model evaluation heatmap └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -81,8 +78,7 @@ The model detects the following emotions:
 pip install -r requirements.txt
 🎮 Step 2: Run the script
 bash
-Copy
-Edit
+
 python main.py
 This will activate your webcam and start detecting emotions in real-time.
 
@@ -92,9 +88,8 @@ File Type	Download Link
 🔗 Trained Weights (if separate)	Download via Google Drive
 📂 GitHub Repository	GitHub Repo Link
 ⚙️ requirements.txt
-nginx
-Copy
-Edit
+
+
 numpy
 opencv-python
 tensorflow
