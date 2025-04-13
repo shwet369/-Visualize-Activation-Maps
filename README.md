@@ -51,8 +51,7 @@ The model detects the following emotions:
 
 ### 📉 Confusion Matrix
 
-![Confusion Matrix](![image](https://github.com/user-attachments/assets/ea59f2eb-a08d-4e2a-993a-42525279905a)
-)
+![Confusion Matrix](![image](https://github.com/user-attachments/assets/e8d907cd-2f07-4dd8-90e8-99dd6f6f75d7)
 
 ### 📋 Classification Report
 
