@@ -1,4 +1,5 @@
 # -Visualize-Activation-Maps
+![image](https://github.com/user-attachments/assets/00e47899-e4fb-45f2-b25b-14a76c937d10)
 
 # 🎭 Emotion Detection Using CNN
 
